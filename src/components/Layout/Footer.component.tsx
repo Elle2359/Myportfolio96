@@ -18,7 +18,7 @@ const Footer = () => (
     <div className="bg-slate-800 shadow min-h-[50px]">
       <div className="w-full mx-auto p-6 text-center font-semibold">
         <div className="flex justify-center items-center space-x-2">
-          <span>Copyright Daniel Fjeldstad</span>
+          <span>Copyright Author name </span>
           <IconContext.Provider value={{ className: "inline-block" }}>
             <BiCopyright size="1.2em" />
           </IconContext.Provider>

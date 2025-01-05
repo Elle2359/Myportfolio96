@@ -32,7 +32,7 @@ interface IContent {
  */
 const IndexContent = ({ pageContent }: { pageContent: IContent[] }) => {
   if (!pageContent || pageContent.length === 0) {
-    throw new Error("Ingen innhold tilgjengelig");
+    throw new Error("overflow ");
   }
 
   return (

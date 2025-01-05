@@ -10,8 +10,8 @@ import SkipLink from "@/components/UI/SkipLink.component";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Forside - Dfweb",
-  description: "Daniel Fjeldstad | Frontend Web Utvikler | Portefølje",
+  title: "Hi,",
+  description: "first name | Frontend Web developer | Portfolio",
 };
 
 export default function RootLayout({
@@ -25,16 +25,16 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/logo.png" />
 
-        <meta property="og:title" content="Daniel Fjeldstad" />
-        <meta name="author" content="Daniel Fjeldstad" />
+        <meta property="og:title" content="first name " />
+        <meta name="author" content="first name " />
         <meta property="og:locale" content="nb_NO" />
         <meta
           name="description"
-          content="Daniel Fjeldstad | Frontend Web Utvikler | Portefølje"
+          content="first name| Frontend Web developer | Portfolio"
         />
         <meta
           property="og:description"
-          content="Daniel Fjeldstad | Frontend Web Utvikler | Portefølje"
+          content="first name | Frontend Web developer | Portfolio"
         />
 
         <meta property="og:url" content="https://www.dfweb.no/" />

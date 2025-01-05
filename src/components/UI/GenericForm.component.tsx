@@ -57,7 +57,7 @@ function GenericForm<TSchema extends z.ZodType<FieldValues>>({
     >
       <fieldset>
         <legend className="text-center mx-auto text-xl mt-4 sr-only">
-          Kontaktskjema
+          Contact Me
         </legend>
         {fields.map((field) => (
           <React.Fragment key={field.name}>

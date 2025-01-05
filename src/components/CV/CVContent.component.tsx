@@ -114,7 +114,7 @@ const CVContent: React.FC<CVContentProps> = ({ cvData }) => {
                 </div>
                 <div className="mx-auto text-center md:mt-8">
                   <Button href="./cv.pdf" renderAs="a" type="button">
-                    Last ned PDF
+                    Last uploaded PDF
                   </Button>
                 </div>
               </div>
