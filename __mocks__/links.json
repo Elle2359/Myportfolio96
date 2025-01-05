@@ -1,16 +1,16 @@
 [
   {
     "title": "Home",
-    "name": "Hjem",
+    "name": "Home",
     "hash": "#hjem",
     "href": "/",
     "externalLink": false
   },
   {
-    "title": "Prosjekter",
-    "name": "Prosjekter",
+    "title": "Projects",
+    "name": "Projects",
     "hash": "#prosjekter",
-    "href": "/prosjekter",
+    "href": "/projects",
     "externalLink": false
   },
   {
@@ -28,10 +28,10 @@
     "externalLink": true
   },
   {
-    "title": "Kontakt",
-    "name": "Kontakt",
+    "title": "contakt",
+    "name": "contakt",
     "hash": "#kontakt",
-    "href": "/kontakt",
+    "href": "/contakt",
     "externalLink": false
   }
 ]

@@ -28,7 +28,7 @@
                 "_key": "567",
                 "_type": "span",
                 "marks": ["code"],
-                "text": "Jeg har erfaring med WordPress og WooCommerce siden 2011 hvor jeg har arbeidet frilans via Fiverr og kan skilte med 100% positiv tilbakemelding på samtlige oppdrag."
+                "text": "Have developed  WordPress og WooCommerce site ."
               }
             ],
             "markDefs": [],
@@ -42,14 +42,14 @@
                 "_key": "8744567556",
                 "_type": "span",
                 "marks": ["code"],
-                "text": "Jeg har også erfaring med andre teknologier som moderne Javascript (ES6+), Typescript, React, Vue.js, PHP, mySQL,  Gatsby, Next.js, Docker, GraphQL, Adobe Photoshop, Storybook, Bootstrap med mer."
+                "text": "I amskilled in teknologies moderne Javascript (ES6+), Typescript, React, Vue.js, PHP, mySQL,  Gatsby, Next.js, Docker, GraphQL, Adobe Photoshop, Storybook, Bootstrap med mer."
               }
             ],
             "markDefs": [],
             "style": "normal"
           }
         ],
-        "title": "Om Meg"
+        "title": "About me"
       },
       {
         "_key": "554433",
@@ -64,7 +64,7 @@
                 "_key": "347875465",
                 "_type": "span",
                 "marks": ["code"],
-                "text": "Jeg arbeider jevnlig med hobbyprosjekter, primært med fokus på Javascript og Typescript."
+                "text": "I primarily work in Javascript og Typescript."
               }
             ],
             "markDefs": [],
@@ -97,7 +97,7 @@
               {
                 "_key": "24341111",
                 "_type": "link",
-                "href": "https://www.github.com/w3bdesign"
+                "href":"https://github.com/IkarosKappler/three-geometry-hellfix"
               }
             ],
             "style": "normal"
@@ -116,7 +116,7 @@
                 "_key": "46755",
                 "_type": "span",
                 "marks": ["code", "bba1096d8305"],
-                "text": "PROSJEKTER"
+                "text": "Projects"
               },
               {
                 "_key": "77433",
@@ -129,7 +129,7 @@
               {
                 "_key": "2223345",
                 "_type": "link",
-                "href": "/prosjekter"
+                "href": "/projects"
               }
             ],
             "style": "normal"
@@ -155,7 +155,7 @@
               {
                 "_key": "3443477",
                 "_type": "link",
-                "href": "https://www.github.com/w3bdesign"
+                "href": "https://github.com/IkarosKappler/three-geometry-hellfix"
               }
             ],
             "style": "normal"
@@ -175,27 +175,27 @@
             "style": "normal"
           }
         ],
-        "title": "Prosjekter"
+        "title": "Projects"
       }
     ],
     "hero": [
       {
         "_key": "867819",
         "_type": "herocontent",
-        "text": "Hei!"
+        "text": "Hi!"
       },
       {
         "_key": "86345653",
         "_type": "herocontent",
-        "text": "Jeg heter Daniel Fjeldstad og er en webutvikler."
+        "text": "Iam first name last name Developer."
       },
       {
         "_key": "34775653",
         "_type": "herocontent",
-        "text": "Jeg kan PHP, Wordpress, Javascript, Typescript, React, Vue, Docker, Photoshop og mye mer."
+        "text": "skilled in PHP, Wordpress, Javascript, Typescript, React, Vue, Docker, Photoshop og mye mer."
       }
     ],
     "id": "15fc8058-09f7-4613-9a4e-bd1295d9085a",
-    "title": "Hjem"
+    "title": "Home"
   }
 ]

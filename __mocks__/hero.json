@@ -1,15 +1,15 @@
 {
   "content": [
-    { " _key": "123", "_type": "herocontent", "text": "Hei!" },
+    { " _key": "123", "_type": "herocontent", "text": "Hi!" },
     {
       "_key": "456",
       "_type": "herocontent",
-      "text": "Jeg heter Daniel Fjeldstad og er en webutvikler."
+      "text": "I am first name last namer."
     },
     {
       "_key": "678",
       "_type": "herocontent",
-      "text": "Jeg kan PHP, Wordpress, Javascript, Typescript, React, Vue, Docker, Photoshop og mye mer."
+      "text": " PHP, Wordpress, Javascript, Typescript, React, Vue, Docker, Photoshop og mye mer."
     }
   ]
 }
